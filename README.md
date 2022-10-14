@@ -1,16 +1,5 @@
 # carousel_slider_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://user-images.githubusercontent.com/113905423/195848348-8541abfb-e770-4b8a-a8c9-f588cbde9bc9.png" width = "250" height = "500">
+<img src = "https://user-images.githubusercontent.com/113905423/195848363-ac48fe5f-674d-4a96-a0ab-9e9db0f9b01e.png" width = "250" height = "500">
+<img src = "https://user-images.githubusercontent.com/113905423/195848368-b152837c-facf-4fe2-ae96-0dc77bc49d3a.png" width = "250" height = "500">
