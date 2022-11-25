@@ -1,0 +1,43 @@
+[
+  {
+    "songName": "Jadugar - Paradox",
+    "image": "assets/images/jadugar.jpg",
+    "audio": "assets/audio/jadugar.mp3"
+  },
+  {
+
+    "songName": "Le Le Rom Rom - Mc Square",
+    "image": "assets/images/leleromrom.jpg",
+    "audio": "assets/audio/leleromrom.mp3"
+  },
+  {
+
+    "songName": "Cow Boy - Paradox",
+    "image": "assets/images/cowboy.jpg",
+    "audio": "assets/audio/cowboy.mp3"
+  },
+  {
+
+    "songName": "Maan Meri Jaan - King",
+    "image": "assets/images/manmerijaan.jpg",
+    "audio": "assets/audio/manmerijaan.mp3"
+  },
+  {
+
+    "songName": "Gang Wale Munde - Paradox",
+    "image": "assets/images/gangwalemunde.jpg",
+    "audio": "assets/audio/gangwalemunde.mp3"
+  },
+  {
+
+    "songName": "Chhore NCR Aale",
+    "image": "assets/images/chhorencraale.jpg",
+    "audio": "assets/audio/chhorencraale.mp3"
+  },
+  {
+
+    "songName": "Tum Prem Ho - Mohit Lalwani",
+    "image": "assets/images/tumpremho.jpg",
+    "audio": "assets/audio/tumpremho.mp3"
+  }
+]
